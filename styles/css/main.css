@@ -1237,7 +1237,7 @@ p,
 @media (max-width: 576px) {
   #contact {
     width: 100vw;
-    height: 100vh;
+    height: 40vh;
   }
   #contact .container .form-txt {
     width: 100%;
